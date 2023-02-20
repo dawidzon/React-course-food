@@ -15,4 +15,5 @@ const MealsSummary = () => {
     </section>
   );
 };
+
 export default MealsSummary;
